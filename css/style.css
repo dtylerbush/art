@@ -1,0 +1,21 @@
+html {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: 'Georama', sans-serif;
+  font-size: 10px;
+  line-height: 1.5;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+
+
+
+/* This is to turn on red outlines to troubleshoot div spacing */
+
+  /* *{ 
+border: red solid 1px;
+} */
+
+
+ /*  See Responsive CSS below, this is desktop (between tablet and wide screen) */
