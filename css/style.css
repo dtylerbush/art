@@ -7,8 +7,7 @@ html {
   line-height: 1.5;
   box-sizing: border-box;
   overflow-x: hidden;
-  border: 7px solid gray;
-  /* border: 7px solid #e0ce00; */
+  border: 7px solid #e0ce00;
   padding: 30px 50px 50px 50px;
 }
 
