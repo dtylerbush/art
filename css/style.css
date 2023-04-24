@@ -24,6 +24,10 @@ a, a:visited {
   text-decoration: none;
 }
 
+a:hover {
+  color: #3CACA5;
+}
+
 /* button {
   margin:;
   padding:;
@@ -44,10 +48,15 @@ a, a:visited {
 }
 
 .art-nav ul {
+  display: flex;
   list-style-type: none;
   font-size: 1.7rem;
   line-height: 1;
   padding: 0;
+}
+
+.art-nav li {
+  padding: 0px 20px;
 }
 
 .art-nav > ul > li:last-child > a {font-weight: 700 !important;}
