@@ -53,11 +53,11 @@ a, a:visited {
 .art-nav > ul > li:last-child > a {font-weight: 700 !important;}
 
 .gallery-image {
-  width: 600px;
+  width: 50%;
 }
 
 .gallery-image-3 {
-  width: 1200px;
+  width: 100%;
 }
 
 /* .gallery-grid {
